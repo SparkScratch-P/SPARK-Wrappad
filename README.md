@@ -6,6 +6,8 @@
 <h2 align="center">A Browser-based notepad with Developer-friendly text-wrapping features showing line numbers and length.</h1>
 
 ---
+
+[![SPARKSheildbadge-SPARK](https://img.shields.io/badge/SPARK-Wrappad-44ADBB.svg?style=for-the-badge)](https://sparkscratch-p.github.io/SPARK-Wrappad/)
  
   **Wrappad** is a [#notepad](https://github.com/search?q=notepad) that runs with your browser offering a variety of new and advanced **developer-friendly features**, and much morre, so that everyone can use it. One can also use it as the **txt- file operator** in any device. You can save the txt file in **any device, that may not always support notepad**, like Android, Lynux, and Mac OS, but you can access that using this browser notepad!
   
