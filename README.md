@@ -1,3 +1,5 @@
+<img align="right" src="https://user-images.githubusercontent.com/73777108/151592680-23be6b61-1b68-4cf8-ba8a-3541699cbfcd.svg" style="width:150px" >
+
 
 <h1 align="center"><u>SPARK-Wrappad</u></h1>
 
